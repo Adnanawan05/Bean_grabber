@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bean Grabber</string>
+    <string name="chat_hint">Type a message...</string>
+    <string name="send">Send</string>
+    <string name="grab">GRAB</string>
+    <string name="grab_now">GRAB NOW</string>
+    <string name="filter_rewards">Show Only Rewards</string>
+    <string name="auto_click">Auto-Click</string>
+    <string name="statistics">Statistics</string>
+    <string name="accounts">Accounts</string>
+    <string name="add_account">Add Account</string>
+    <string name="username">Username</string>
+    <string name="token">Token</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="new_beans_bag">New Beans Bag available - Tap to open</string>
+    <string name="active_bags">Active Bags</string>
+    <string name="no_active_bags">No active beans bags</string>
+    <string name="grabbed">Grabbed: %d</string>
+    <string name="missed">Missed: %d</string>
+    <string name="success_rate">Success Rate: %.1f%%</string>
+</resources>
